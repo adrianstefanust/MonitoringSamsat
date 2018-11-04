@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Monitoring Samsat</string>
+    <string name="akan_datang">Akan Datang</string>
+    <string name="mekanisme_e_samsat">Mekanisme E-Samsat</string>
+    <string name="masukkan_no_plat">Masukkan nomor plat anda</string>
+    <string name="lihat_info_pkb">Lihat info PKB</string>
+    <string name="unknown_error">Unknown error occured</string>
+    <string name="processing">Processing</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="bpprd_footer_text">BPPRD Prov.\nKalimantan Utara</string>
+
+    <!-- Info pkb section -->
+    <string name="info_kendaraan">Info kendaraan</string>
+    <string name="merk">Merk            : %1s</string>
+    <string name="model">Model          : %1s</string>
+    <string name="tahun">Tahun          : %1s</string>
+    <string name="warna">Warna          : %1s</string>
+    <string name="no_rangka">No Rangka  : %1s </string>
+    <string name="no_mesin">No Mesin    : %1s</string>
+    <string name="info_pajak_kendaraan">Info pajak kendaraan dan PNBP</string>
+    <string name="pkb_pok">PKB POK      : %1s</string>
+    <string name="pkb_den">PKB DEN      : %1s</string>
+    <string name="swdkllj_pok">SWDKLLJ POK      : %1s </string>
+    <string name="swdkllj_den">SWDKLLJ DEN      : %1s </string>
+    <string name="pnbp_stnk">PNBP STNK      : %1s </string>
+    <string name="pnbp_tnkb">PNBP TNKB      : %1s </string>
+    <string name="total">TOTAL      : %1s </string>
+    <string name="tgl_pajak">TGL PAJAK      : %1s </string>
+    <string name="tgl_stnk">TGL STNK        : %1s </string>
+    <string name="milik_ke">MILIK KE        : %1s </string>
+    <string name="keterangan">KETERANGAN        : %1s </string>
+
+
+    <!-- Error section -->
+    <string name="error_input_required">Harus diisi.</string>
+    <string name="error_not_registered">Plat nomor %1s belum terdaftar.</string>
+    <string name="error_server">Terjadi kesalahan teknis, mohon mengulang pencarian Info PKB.</string>
+
+    <!-- PDF Viewer Section -->
+    <string name="pdf_viewer_title">PDF Viewer</string>
+    <string name="pdf_viewer_status">You are viewing %1s</string>
+    <string name="title_activity_choose_date">ChooseDateActivity</string>
+    <string name="pick_date">Pilih Hari</string>
+    <string name="title_activity_table_monitor">TableMonitor</string>
+    <string name="monitoring_samsat">Monitoring Samsat</string>
+    <string name="mohon_tunggu">Mohon Tunggu</string>
+</resources>
